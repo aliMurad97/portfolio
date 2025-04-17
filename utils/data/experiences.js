@@ -26,6 +26,15 @@ export const experience = [
         demo: '',
         role: 'Flutter Developer',
     },
+    {
+        id: 4,
+        name: 'EtcNor',
+        description: 'I started working on existing product here and deployed apps. The app is currently in UAT',
+        tools: ['Nov 2024 – Present'],
+        code: '',
+        demo: '',
+        role: 'Senior Flutter Developer',
+    }
 ];
 
 
