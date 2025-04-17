@@ -58,6 +58,19 @@ async function getBlogs() {
       'title': 'Mentor Praxis',
       'reading_time_minutes': '2',
       'description': `Real estate platform for Spanish investors to search and communicate with agencies. Uniform design...`
+    },
+    {
+      'cover_image': '/png/placeholder.png',
+      'url': '',
+      'title': 'OMS',
+      'reading_time_minutes': '2',
+      'description': `Order Management System App for Restaurants to prepare Orders for Pickup and Dinein like foodpanda.`
+    },  {
+      'cover_image': '/png/placeholder.png',
+      'url': '',
+      'title': 'CMA',
+      'reading_time_minutes': '2',
+      'description': `Customer Management App for Customers to Order either Pickup or Dinein.`
     }
   ]; 
   return project_data;
